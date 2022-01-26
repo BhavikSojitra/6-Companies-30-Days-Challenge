@@ -5,4 +5,4 @@
 3. Microsoft | [Sheet](https://docs.google.com/document/d/1sSyOTeZBVJExf0oytLVGk6Z34h1usFm4QRkr1Wb5ouk/edit) | [Solutions](https://github.com/BhavikSojitra/6-Companies-30-Days-Challenge/tree/main/Microsoft) |
 4. Adobe | [Sheet](https://docs.google.com/document/d/1cEAe63fC3YMJRwKmCoVOIXFUaFv5LqNXedxaGpaqd6U/edit) | [Solutions](https://github.com/BhavikSojitra/6-Companies-30-Days-Challenge/tree/main/Adobe) |
 5. Intuit | [Sheet](https://docs.google.com/document/d/18oi6OlvcL3wYn20Jb9crW7NO4cGkL6vUfTvplNDGkTw/edit) | [Solutions](https://github.com/BhavikSojitra/6-Companies-30-Days-Challenge/tree/main/Intuit) |
-6. Waiting | [Sheet]() | [Solutions]() |
+6. Walmart | [Sheet](https://docs.google.com/document/d/1XsyXdufDAK1C6PbC0KNeO95ydbH8qlsGnkyThkS-1bs/edit) | [Solutions]() |
