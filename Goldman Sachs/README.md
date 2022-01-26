@@ -1,7 +1,7 @@
 1. Print Anagrams Together | [Problem](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/) | [Solution]() |
-2. Overlapping rectangles | [Problem]() | [Solution]() | 
-3. Count the subarrays having product less than k | [Problem]() | [Solution]() |
-4. Run Length Encoding | [Problem]() | [Solution]() |
+2. Overlapping rectangles | [Problem](https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/) | [Solution]() | 
+3. Count the subarrays having product less than k | [Problem](https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/) | [Solution]() |
+4. Run Length Encoding | [Problem](https://practice.geeksforgeeks.org/problems/run-length-encoding/1/) | [Solution]() |
 5. Ugly Numbers | [Problem](https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/) | [Solution]() |
 6. Greatest Common Divisor of Strings | [Problem](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Solution]() |
 7. Find the kid which gets tha damaged toy | [Problem](https://www.geeksforgeeks.org/distributing-m-items-circle-size-n-starting-k-th-position/) | [Solution]() |
