@@ -1,4 +1,4 @@
-1. Minimum sum partition | [Problem](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/) | [Solution]() | 
+1. Minimum sum partition | [Problem](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/) | [Solution](https://github.com/BhavikSojitra/6-Companies-30-Days-Challenge/blob/main/Microsoft/MinimumSumPartition.java) | 
 2. Prerequisite Tasks | [Problem](https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1/) | [Solution]() | 
 3. Rotate by 90 degree | [Problem](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1/) | [Solution]() | 
 4. Spirally traversing a matrix | [Problem](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/) | [Solution]() | 
