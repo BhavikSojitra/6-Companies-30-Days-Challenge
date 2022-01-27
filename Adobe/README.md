@@ -1,5 +1,5 @@
 1. Subarray with given sum | [Problem](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) | [Solution](https://github.com/BhavikSojitra/6-Companies-30-Days-Challenge/blob/main/Adobe/SubarrayWithGivenSum.java) | 
-2. Longest Arithmetic Progression | [Problem](https://practice.geeksforgeeks.org/problems/longest-arithmetic-progression1019/1/) | [Solution]() | 
+2. Longest Arithmetic Progression | [Problem](https://practice.geeksforgeeks.org/problems/longest-arithmetic-progression1019/1/) | [Solution](https://github.com/BhavikSojitra/6-Companies-30-Days-Challenge/blob/main/Adobe/LongestArithmeticProgression.java) | 
 3. Number of distict Words with k maximum contiguous vowels | [Problem](https://practice.geeksforgeeks.org/problems/7b9d245852bd8caf8a27d6d3961429f0a2b245f1/1/) | [Solution]() | 
 4. Partition Equal Subset Sum | [Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1) | [Solution]() | 
 5. Express as sum of power of natural numbers | [Problem](https://practice.geeksforgeeks.org/problems/express-as-sum-of-power-of-natural-numbers5647/1) | [Solution]() | 
