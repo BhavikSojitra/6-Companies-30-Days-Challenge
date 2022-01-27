@@ -1,5 +1,5 @@
 1. Partition a set into two subsets such that the difference of subset sums is minimum | [Problem](https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/) | [Solution]() | 
-2. Word Search | [Problem](https://practice.geeksforgeeks.org/problems/word-search/1/) | [Solution]() | 
+2. Word Search | [Problem](https://practice.geeksforgeeks.org/problems/word-search/1/) | [Solution](https://github.com/BhavikSojitra/6-Companies-30-Days-Challenge/blob/main/Intuit/WordSearch.java) | 
 3. Find the missing no in string | [Problem](https://practice.geeksforgeeks.org/problems/find-the-missing-no-in-string/1/) | [Solution]() | 
 4. Largest number in K swaps | [Problem](https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1) | [Solution]() | 
 5. Split Array Largest Sum | [Problem](https://leetcode.com/problems/split-array-largest-sum/) | [Solution]() | 
