@@ -3,7 +3,7 @@
 3. Remove Colored Pieces if Both Neighbors are the Same Color | [Problem](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | [Solution]() | 
 4. Number of Unique Paths | [Problem](https://practice.geeksforgeeks.org/problems/number-of-unique-paths5339/1/) | [Solution](https://github.com/BhavikSojitra/6-Companies-30-Days-Challenge/blob/main/Walmart/NumberOfUniquePaths.java) | 
 5. Transform to Sum Tree | [Problem](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1/) | [Solution](https://github.com/BhavikSojitra/6-Companies-30-Days-Challenge/blob/main/Walmart/TransformToSumTree.java) | 
-6. Power Of Numbers | [Problem](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | [Solution]() | 
+6. Power Of Numbers | [Problem](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | [Solution](https://github.com/BhavikSojitra/6-Companies-30-Days-Challenge/blob/main/Walmart/PowerOfNumbers.java) | 
 7. Sorted subsequence of size 3 | [Problem](https://practice.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1/) | [Solution]() | 
 8. Maximum Height Tree | [Problem](https://practice.geeksforgeeks.org/problems/maximum-height-tree4803/1/) | [Solution]() | 
 9. Guess Number Higher or Lower II | [Problem](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [Solution]() | 
