@@ -12,4 +12,4 @@
 12. Find Array Given Subset Sums | [Problem](https://leetcode.com/problems/find-array-given-subset-sums/) | [Solution]() | 
 13. Find the Kth Largest Integer in the Array | [Problem](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/) | [Solution]() | 
 14. Largest number in K swaps | [Problem](https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1/) | [Solution]() | 
-15. Divide Two Integers | [Problem](https://leetcode.com/problems/divide-two-integers/) | [Solution]() | 
+15. Divide Two Integers | [Problem](https://leetcode.com/problems/divide-two-integers/) | [Solution](https://github.com/BhavikSojitra/6-Companies-30-Days-Challenge/blob/main/Walmart/DivideTwoIntegers.java) | 
