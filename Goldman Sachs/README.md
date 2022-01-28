@@ -1,5 +1,5 @@
 1. Print Anagrams Together | [Problem](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/) | [Solution]() |
-2. Overlapping rectangles | [Problem](https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/) | [Solution]() | 
+2. Overlapping rectangles | [Problem](https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/) | [Solution](https://github.com/BhavikSojitra/6-Companies-30-Days-Challenge/blob/main/Goldman%20Sachs/OverlappingRectangles.java) | 
 3. Count the subarrays having product less than k | [Problem](https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/) | [Solution]() |
 4. Run Length Encoding | [Problem](https://practice.geeksforgeeks.org/problems/run-length-encoding/1/) | [Solution]() |
 5. Ugly Numbers | [Problem](https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/) | [Solution]() |
