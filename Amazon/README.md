@@ -1,4 +1,4 @@
-1. Maximum Profit | [Problem](https://practice.geeksforgeeks.org/problems/maximum-profit4657/1) | [Solution]() | 
+1. Maximum Profit | [Problem](https://practice.geeksforgeeks.org/problems/maximum-profit4657/1) | [Solution](https://github.com/BhavikSojitra/6-Companies-30-Days-Challenge/blob/main/Amazon/MaximumProfit.java) | 
 2. Longest Mountain in Array | [Problem](https://leetcode.com/problems/longest-mountain-in-array/) | [Solution]() | 
 3. IPL 2021 - Match Day 2 | [Problem](https://practice.geeksforgeeks.org/problems/deee0e8cf9910e7219f663c18d6d640ea0b87f87/1/) | [Solution]() | 
 4. Brackets in Matrix Chain Multiplication | [Problem](https://practice.geeksforgeeks.org/problems/brackets-in-matrix-chain-multiplication1024/1/) | [Solution]() | 
